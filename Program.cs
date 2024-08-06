@@ -1,11 +1,9 @@
-﻿public class RankCalculator
+﻿public class calculadorRank
 {
     public static string CalcularRank(int vitorias, int derrotas)
     {
-        // Calcula o saldo de partidas rankeadas
         int saldo = vitorias - derrotas;
 
-        // Determina o rank com base no número de vitórias
         string rank;
         if (vitorias < 10)
         {
@@ -27,9 +25,9 @@
         {
             rank = "Diamante";
         }
-        else // vitorias >= 101
+        else
         {
-            rank = "Imortal";
+            rank = "Lendário";
         }
 
         return rank;

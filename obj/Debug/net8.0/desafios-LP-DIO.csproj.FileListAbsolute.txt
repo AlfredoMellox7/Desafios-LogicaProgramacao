@@ -12,3 +12,4 @@ C:\alfredoMello\estudosDio\logicaProgramacao\desafios-LP\desafios-LP-DIO\obj\Deb
 C:\alfredoMello\estudosDio\logicaProgramacao\desafios-LP\desafios-LP-DIO\obj\Debug\net8.0\desafios-LP-DIO.pdb
 C:\alfredoMello\estudosDio\logicaProgramacao\desafios-LP\desafios-LP-DIO\obj\Debug\net8.0\desafios-LP-DIO.genruntimeconfig.cache
 C:\alfredoMello\estudosDio\logicaProgramacao\desafios-LP\desafios-LP-DIO\obj\Debug\net8.0\ref\desafios-LP-DIO.dll
+C:\alfredoMello\estudosDio\logicaProgramacao\desafios-LP\desafios-LP-DIO\obj\Debug\net8.0\desafios-LP-DIO.sourcelink.json
