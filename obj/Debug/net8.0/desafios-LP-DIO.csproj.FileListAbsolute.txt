@@ -1,0 +1,14 @@
+C:\alfredoMello\estudosDio\logicaProgramacao\desafios-LP\desafios-LP-DIO\bin\Debug\net8.0\desafios-LP-DIO.exe
+C:\alfredoMello\estudosDio\logicaProgramacao\desafios-LP\desafios-LP-DIO\bin\Debug\net8.0\desafios-LP-DIO.deps.json
+C:\alfredoMello\estudosDio\logicaProgramacao\desafios-LP\desafios-LP-DIO\bin\Debug\net8.0\desafios-LP-DIO.runtimeconfig.json
+C:\alfredoMello\estudosDio\logicaProgramacao\desafios-LP\desafios-LP-DIO\bin\Debug\net8.0\desafios-LP-DIO.dll
+C:\alfredoMello\estudosDio\logicaProgramacao\desafios-LP\desafios-LP-DIO\bin\Debug\net8.0\desafios-LP-DIO.pdb
+C:\alfredoMello\estudosDio\logicaProgramacao\desafios-LP\desafios-LP-DIO\obj\Debug\net8.0\desafios-LP-DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\alfredoMello\estudosDio\logicaProgramacao\desafios-LP\desafios-LP-DIO\obj\Debug\net8.0\desafios-LP-DIO.AssemblyInfoInputs.cache
+C:\alfredoMello\estudosDio\logicaProgramacao\desafios-LP\desafios-LP-DIO\obj\Debug\net8.0\desafios-LP-DIO.AssemblyInfo.cs
+C:\alfredoMello\estudosDio\logicaProgramacao\desafios-LP\desafios-LP-DIO\obj\Debug\net8.0\desafios-LP-DIO.csproj.CoreCompileInputs.cache
+C:\alfredoMello\estudosDio\logicaProgramacao\desafios-LP\desafios-LP-DIO\obj\Debug\net8.0\desafios-LP-DIO.dll
+C:\alfredoMello\estudosDio\logicaProgramacao\desafios-LP\desafios-LP-DIO\obj\Debug\net8.0\refint\desafios-LP-DIO.dll
+C:\alfredoMello\estudosDio\logicaProgramacao\desafios-LP\desafios-LP-DIO\obj\Debug\net8.0\desafios-LP-DIO.pdb
+C:\alfredoMello\estudosDio\logicaProgramacao\desafios-LP\desafios-LP-DIO\obj\Debug\net8.0\desafios-LP-DIO.genruntimeconfig.cache
+C:\alfredoMello\estudosDio\logicaProgramacao\desafios-LP\desafios-LP-DIO\obj\Debug\net8.0\ref\desafios-LP-DIO.dll
